@@ -1,0 +1,45 @@
+html{
+    background-image:url("google.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+body{
+    align-items: center;
+}
+img{
+    height:350px;
+    width: 400px;
+    margin-left: 550px;
+}
+
+.sp-title{
+    text-shadow: 5px 6px 10px black;
+    font-size: 44px;
+    color: rgb(102, 232, 200);
+    text-align: center;
+}
+
+div.info{
+    margin-right:250px;
+    margin-left: 240px;
+    align-content: center;
+    margin-top: 20px;
+    border:3px solid;
+    padding:40px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family:system-ui; 
+    background-color: blanchedalmond;
+    opacity: 0.70;
+}
+.footer{
+    text-align: center;
+    color:beige;
+    font-weight: bold;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color:rgb(131, 190, 194);
+}
